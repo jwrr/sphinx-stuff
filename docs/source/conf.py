@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sphinx-stuff'
+project = 'lued'
 copyright = '2021, jwrr'
 author = 'jwrr'
 
